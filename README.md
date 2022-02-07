@@ -1,5 +1,6 @@
 <img src="https://github.com/hth73/hth73/blob/main/images/ht_logo_large.png">
 ***
+
 - 🔭 Derzeit unterstütze ich den Kunden, seine AWS-Umgebung zu verbessern.
 - 🌱 Momentan lerne ich Terraform, Terragrunt, docker und viele andere Dinge.
 - ⚡ Ich zeichne gerne und manipuliere Fotos mit Adobe Photoshop.
