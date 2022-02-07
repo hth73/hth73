@@ -1,4 +1,4 @@
-### Hallo zusammen, ich bin der Helmut - alias hth73 👋
+<img src="images/ht_logo.png" width="70"> **Hallo zusammen, ich bin der Helmut - alias hth73 👋**
 ***
 - 🔭 Derzeit unterstütze ich den Kunden, seine AWS-Umgebung zu verbessern.
 - 🌱 Momentan lerne ich Terraform, Terragrunt, docker und viele andere Dinge.
