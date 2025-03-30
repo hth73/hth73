@@ -3,7 +3,7 @@
 </p>
 
 ---
-- 🌱 Momentan lerne ich Terraform, Terragrunt, docker und viele andere Dinge.
+- 🌱 Momentan lerne ich kubernetes, sops, prometheus, grafana, grafana-alloy, docker und viele andere Dinge.
 - ⚡ Ich zeichne gerne und manipuliere Fotos mit Adobe Photoshop.
 
 ***
@@ -38,7 +38,4 @@
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=Github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantART-%2305CC47.svg?&logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon)
 
 ---
-<p align="center">© 2022 Helmut Thurnhofer, all rights reserved.</p>
-
-
-
+<p align="center">© 2025 Helmut Thurnhofer, all rights reserved.</p>
