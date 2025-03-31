@@ -7,7 +7,7 @@
 - ⚡ Ich zeichne gerne mit Bleistift und manipuliere Fotos mit Adobe Photoshop.
 
 ***
-#### 💻 Betriebsysteme:
+#### 💻 Betriebssysteme:
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server-0078D6?logo=windows10&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Clients-0078D6?logo=windows10&logoColor=white&style=flat" />
