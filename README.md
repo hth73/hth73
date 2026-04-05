@@ -21,10 +21,8 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20Web%20Services-%23FF9900.svg?logo=aws&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20365-0089D6?logo=windows10&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=flat" />
-
-  <img src="https://img.shields.io/badge/ownCloud-0082C9?logo=owncloud&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Nextcloud-0082C9?logo=Nextcloud&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/OpenCloud-cc5678?logo=icloud&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-OpenStack-ee003e?logo=openstack&logoColor=white&style=flat" />
 </p>
 
 #### ☁️ AWS Cloud Services
