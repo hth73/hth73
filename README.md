@@ -3,7 +3,7 @@
 </p>
 
 ---
-- 🌱 Momentan lerne ich eine Menge über Kubernetes, Docker, Prometheus, Grafana, Grafana-Alloy und viele andere Dinge.
+- 🌱 Momentan lerne ich eine Menge über OpenStack, Kubernetes, Docker, Prometheus, Grafana, Grafana-Alloy und viele andere Dinge.
 - ⚡ Ich zeichne gerne mit Bleistift und manipuliere Fotos mit Adobe Photoshop.
 
 ***
@@ -104,4 +104,4 @@
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon) [<img alt="DeviantART" src="https://img.shields.io/badge/Helles%20Portfolio-1572B6?logo=icloud&logoColor=white&style=flat" />](http://www.thurnhofer.net)
 
 ---
-<p align="center">© 2025 Helmut Thurnhofer, all rights reserved.</p>
+<p align="center">© 2026 Helmut Thurnhofer, all rights reserved.</p>
