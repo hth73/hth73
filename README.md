@@ -3,11 +3,11 @@
 </p>
 
 ---
-- 🌱 Momentan lerne ich eine Menge über Ubuntu und Manjaro unattended Installation mit Packer, Vagrant und Ansible, OpenStack, Docker und viele andere Dinge.
-- ⚡ Ich zeichne gerne mit Bleistift und manipuliere Fotos mit Adobe Photoshop.
+- 🌱 Currently learning a lot about unattended installations for Ubuntu and Manjaro using Packer, Vagrant, and Ansible, as well as OpenStack, Docker, and many other technologies.
+- ⚡ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
 ***
-#### 💻 Betriebssysteme:
+#### 💻 Operating Systems:
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server-008ad2?logo=windows10&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white&style=flat" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Mac%20OS%20Clients-000000?logo=apple&logoColor=white&style=flat" />
 </p>
 
-#### ☁️ Cloud Umgebungen:
+#### ☁️ Cloud Environment:
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20Web%20Services-%2321416b.svg?logo=aws&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20365-008ad2?logo=windows10&logoColor=white&style=flat" />
@@ -101,7 +101,7 @@
   <img src="https://img.shields.io/badge/Bash-293238?logo=gnu-bash&logoColor=white&style=flat" />
 </p>
 
-#### 🌎 Meine Internet Profile:
+#### 🌎 Internet Profiles:
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantArt-00e3a1?logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon) [<img alt="DeviantART" src="https://img.shields.io/badge/Helles%20Portfolio-1572B6?logo=icloud&logoColor=white&style=flat" />](https://www.thurnhofer.net)
 
 ---
