@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/hth73/hth73/blob/main/images/hth_banner.jpg" width="50%" height="50%" />
+  <img src="https://github.com/hth73/hth73/blob/main/images/hth_banner.jpg" width="100%" height="100%" />
 </p>
 
 ---
