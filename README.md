@@ -3,26 +3,27 @@
 </p>
 
 ---
-- 🌱 Momentan lerne ich eine Menge über OpenStack, Kubernetes, Docker, Prometheus, Grafana, Grafana-Alloy und viele andere Dinge.
+- 🌱 Momentan lerne ich eine Menge über Ubuntu und Manjaro unattended Installation mit Packer, Vagrant und Ansible, OpenStack, Docker und viele andere Dinge.
 - ⚡ Ich zeichne gerne mit Bleistift und manipuliere Fotos mit Adobe Photoshop.
 
 ***
 #### 💻 Betriebssysteme:
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server-0078D6?logo=windows10&logoColor=white&style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server-008ad2?logo=windows10&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white&style=flat" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Clients-0078D6?logo=windows10&logoColor=white&style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Clients-008ad2?logo=windows10&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Ubuntu%20Clients-E95420?logo=ubuntu&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Mac%20OS%20Clients-000000?logo=apple&logoColor=white&style=flat" />
 </p>
 
 #### ☁️ Cloud Umgebungen:
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20Web%20Services-%23FF9900.svg?logo=aws&logoColor=white&style=flat" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20365-0089D6?logo=windows10&logoColor=white&style=flat" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Nextcloud-0082C9?logo=Nextcloud&logoColor=white&style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20Web%20Services-%2321416b.svg?logo=aws&logoColor=white&style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20365-008ad2?logo=windows10&logoColor=white&style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-008ad2?logo=msazure&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082c5?logo=Nextcloud&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-OpenStack-ee003e?logo=openstack&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Proxmox-E95420?logo=proxmox&logoColor=white&style=flat" />
 </p>
 
 #### ☁️ AWS Cloud Services
@@ -54,15 +55,15 @@
 
 #### ☁️ DevOps Tools:
 <p>
-  <img src="https://img.shields.io/badge/Git-E44C30?logo=git&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Concourse-FC6D26?logo=concourse&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Git-fa4e37?logo=git&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitLab-eb4130?logo=gitlab&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-eb4130?logo=gitlab&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Concourse-0095ee?logo=concourse&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Forgejo-609926?logo=forgejo&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-181717?logo=github-actions&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Forgejo-dd0010?logo=forgejo&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovate&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Keycloak-FCA121?logo=keycloak&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Keycloak-00c6e6?logo=keycloak&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/PocketID-1572B6?logo=pocket&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Caddy-4EAA25?logo=caddy&logoColor=white&style=flat" />
@@ -97,11 +98,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Powershell-5391FE?logo=hyper&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Batch-5391FE?logo=hyper&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Bash-293238?logo=gnu-bash&logoColor=white&style=flat" />
 </p>
 
 #### 🌎 Meine Internet Profile:
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon) [<img alt="DeviantART" src="https://img.shields.io/badge/Helles%20Portfolio-1572B6?logo=icloud&logoColor=white&style=flat" />](http://www.thurnhofer.net)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantArt-00e3a1?logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon) [<img alt="DeviantART" src="https://img.shields.io/badge/Helles%20Portfolio-1572B6?logo=icloud&logoColor=white&style=flat" />](https://www.thurnhofer.net)
 
 ---
 <p align="center">© 2026 Helmut Thurnhofer, all rights reserved.</p>
