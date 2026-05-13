@@ -9,11 +9,12 @@
 ***
 #### 💻 Operating Systems:
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server-008ad2?logo=windows10&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white&style=flat" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Clients-008ad2?logo=windows10&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Ubuntu%20Clients-E95420?logo=ubuntu&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Mac%20OS%20Clients-000000?logo=apple&logoColor=white&style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server/Client-008ad2?style=flat&logo=windows10&labelColor=ffffff&logoColor=008ad2" />
+  <img src="https://img.shields.io/badge/Debian%20Server-A81D33?style=flat&logo=debian&labelColor=ffffff&logoColor=A81D33" />
+  <img src="https://img.shields.io/badge/Ubuntu%20Server/Client-E95420?style=flat&logo=ubuntu&labelColor=ffffff&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&labelColor=ffffff&logoColor=5277C3" />
+  <img src="https://img.shields.io/badge/Fedora%20CoreOS-51A2DA?style=flat&logo=fedora&labelColor=ffffff&logoColor=51A2DA" />
+  <img src="https://img.shields.io/badge/Mac%20OS%20Client-181717?style=flat&logo=apple&labelColor=ffffff&logoColor=181717" />
 </p>
 
 #### ☁️ Cloud Environment:
