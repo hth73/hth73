@@ -7,7 +7,7 @@
 - 🖌️ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
 ***
-#### 💻 Operating Systems:
+### 💻 Operating Systems
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server/Client-008ad2?style=flat&logo=windows10&labelColor=ffffff&logoColor=008ad2" />
   <img src="https://img.shields.io/badge/Debian%20Server-A81D33?style=flat&logo=debian&labelColor=ffffff&logoColor=A81D33" />
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Mac%20OS%20Client-181717?style=flat&logo=apple&labelColor=ffffff&logoColor=181717" />
 </p>
 
-#### ☁️ Cloud Environment:
+### ☁️ Cloud Environment
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20Web%20Services-%2321416b.svg?logo=aws&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20365-008ad2?logo=windows10&logoColor=white&style=flat" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Proxmox-E95420?logo=proxmox&logoColor=white&style=flat" />
 </p>
 
-#### ☁️ AWS Cloud Services
+### ☁️ AWS Cloud Services
 <p>
   <img src="https://img.shields.io/badge/AWS%20IAM/Identity%20Center-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/AWS%20VPCs/Subnets-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/AWS%20Simple%20Email%20Service-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
 </p>
 
-#### 🧰 DevOps Tools:
+### 🧰 DevOps Tools
 <p>
   <img src="https://img.shields.io/badge/Git-fa4e37?logo=git&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/GitLab-eb4130?logo=gitlab&logoColor=white&style=flat" />
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Caddy-4EAA25?logo=caddy&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Samba-ec0021?logo=bandcamp&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Hasicorp%20Vault-7B42BC?logo=vault&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/HasiCorp%20Vault-7B42BC?logo=vault&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Gopass-1868F2?logo=enpass&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Sops-21416b?logo=pastebin&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=flat" />
 </p>
 
-#### 📝 Scripting Tools:
+### 📝 Scripting Tools
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/CSS3-663399?logo=css&logoColor=white&style=flat" />
@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/Bash-293238?logo=gnu-bash&logoColor=white&style=flat" />
 </p>
 
-#### 🌎 Internet Profiles:
+### 🌎 Internet Profiles
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantArt-00e3a1?logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon) [<img alt="DeviantART" src="https://img.shields.io/badge/Helles%20Portfolio-1572B6?logo=icloud&logoColor=white&style=flat" />](https://www.thurnhofer.net)
 
 ---
