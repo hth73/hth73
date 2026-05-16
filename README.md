@@ -3,8 +3,8 @@
 </p>
 
 ---
-- 🌱 Currently learning a lot about unattended installations for Ubuntu and Manjaro using Packer, Vagrant, and Ansible, as well as OpenStack, Docker, and many other technologies.
-- ⚡ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
+- 🧠 Currently, I am learning about automated installations of Ubuntu, Manjaro, and NixOS using Packer, Vagrant, and Ansible. I am also exploring OpenStack, Docker, and CoreOS, along with many other areas of IT.
+- 🖌️ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
 ***
 #### 💻 Operating Systems:
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/AWS%20Simple%20Email%20Service-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
 </p>
 
-#### ☁️ DevOps Tools:
+#### 🧰 DevOps Tools:
 <p>
   <img src="https://img.shields.io/badge/Git-fa4e37?logo=git&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/GitLab-eb4130?logo=gitlab&logoColor=white&style=flat" />
@@ -65,12 +65,13 @@
   <img src="https://img.shields.io/badge/Forgejo-dd0010?logo=forgejo&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovate&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Keycloak-00c6e6?logo=keycloak&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/PocketID-1572B6?logo=pocket&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/PocketID-1572B6?logo=pexels&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Caddy-4EAA25?logo=caddy&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Samba-ec0021?logo=bandcamp&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Hasicorp%20Vault-7B42BC?logo=vault&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Gopass-1868F2?logo=ghost&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Sops-21416b?logo=ghost&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Gopass-1868F2?logo=enpass&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Sops-21416b?logo=pastebin&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white" />
@@ -85,25 +86,25 @@
   <img src="https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-21416b?logo=VirtualBox&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Vagrant-1868F2?logo=Vagrant&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Packer-02A8EF?&style=flat&logo=Packer&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Terragrunt-7B42BC?logo=terraform&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Markdown-181717?logo=markdown&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=flat" />
 </p>
 
 #### 📝 Scripting Tools:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/CSS3-663399?logo=css&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Powershell-5391FE?logo=hyper&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Batch-5391FE?logo=hyper&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Bash-293238?logo=gnu-bash&logoColor=white&style=flat" />
 </p>
 
 #### 🌎 Internet Profiles:
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantArt-00e3a1?logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon) [<img alt="DeviantART" src="https://img.shields.io/badge/Helles%20Portfolio-1572B6?logo=icloud&logoColor=white&style=flat" />](https://www.thurnhofer.net)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantArt-00e3a1?logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon) [<img alt="DeviantART" src="https://img.shields.io/badge/Helles%20Portfolio-1572B6?logo=icloud&logoColor=white&style=flat" />](https://www.thurnhofer.net)
 
 ---
 <p align="center">© 2026 Helmut Thurnhofer, all rights reserved.</p>
