@@ -3,7 +3,7 @@
 </p>
 
 ---
-- 🧠 Currently, I am learning about automated installations of Ubuntu, Manjaro, and NixOS using Packer, Vagrant, and Ansible. I am also exploring OpenStack, Docker, and CoreOS, along with many other areas of IT.
+- 🧠 Currently, I am learning about automated installations of Ubuntu, Manjaro, NixOS, CoreOS using Packer, Vagrant, and Ansible. I am also exploring OpenStack, Docker, and Kubernetes, along with many other areas of IT.
 - 🖌️ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
 ***
@@ -23,7 +23,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20365-008ad2?logo=windows10&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-008ad2?logo=msazure&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Nextcloud-0082c5?logo=Nextcloud&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-OpenStack-ee003e?logo=openstack&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/OpenStack-ee003e?logo=openstack&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Proxmox-E95420?logo=proxmox&logoColor=white&style=flat" />
 </p>
 
@@ -56,20 +56,20 @@
 
 ### 🧰 DevOps Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-fa4e37?logo=git&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitLab-eb4130?logo=gitlab&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-eb4130?logo=gitlab&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Concourse-0095ee?logo=concourse&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Concourse%20CI-3398DC?logo=concourse&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-181717?logo=github-actions&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Forgejo-dd0010?logo=forgejo&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovate&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Keycloak-00c6e6?logo=keycloak&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-181717?logo=github-actions&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Forgejo-FB923C?logo=forgejo&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/RenovateBot-308BE3?logo=renovate&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/PocketID-1572B6?logo=pexels&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Caddy-4EAA25?logo=caddy&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Samba-ec0021?logo=bandcamp&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/HasiCorp%20Vault-7B42BC?logo=vault&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/HasiCorp%20Vault-FFEC6E?logo=vault&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Gopass-1868F2?logo=enpass&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Sops-21416b?logo=pastebin&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
@@ -80,15 +80,18 @@
   <img src="https://img.shields.io/badge/Grafana%20Promtail-5f5f5f?style=flat&logo=grafana&labelColor=ffffff" />
   <img src="https://img.shields.io/badge/Grafana%20Alloy-5f5f5f?style=flat&logo=grafana&labelColor=ffffff" />
   <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi" />
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?logo=Helm&labelColor=0F1689&style=flat" />
-  <img src="https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flux%20CD-5468FF?logo=flux&labelColor=ffffff&style=flat" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-21416b?logo=VirtualBox&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Vagrant-1868F2?logo=Vagrant&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Packer-02A8EF?&style=flat&logo=Packer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?logo=terraform&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Terragrunt-7B42BC?logo=terraform&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Markdown-181717?logo=markdown&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=flat" />
