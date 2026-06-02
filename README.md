@@ -3,12 +3,15 @@
 </p>
 
 ---
-- 🧠 Currently, I am learning about automated installations of Ubuntu, Manjaro, NixOS, CoreOS using Packer, Vagrant, and Ansible. I am also exploring OpenStack, Docker, and Kubernetes, along with many other areas of IT.
+### Brief description
+
+- 🧠 Currently, I'm learning a lot about automated installations of Ubuntu, Manjaro, NixOS, CoreOS using Packer, Vagrant, and Ansible. I'm also exploring OpenStack, Docker, and Kubernetes, along with many other areas of IT.
+- 🛠️ I'm also teaching myself a little Python right now so I can automate things as well. See my current project
 - 🖌️ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
-#### This is my current project
+### This is my current project
 <p>
-    <img src="https://github.com/hth73/hth-binharbor/blob/main/images/BinHarborLogoSmall.png" width="64px" height="64px" alt="BinHarbor - Manage and update local Linux binaries" /><a href="https://github.com/hth73/hth-binharbor" target="_blank"><br>BinHarbor - Manage and update local Linux binaries</a>
+    <img src="https://github.com/hth73/hth-binharbor/blob/main/images/BinHarborLogoSmall.png" width="64px" height="64px" alt="BinHarbor" /><a href="https://github.com/hth73/hth-binharbor" target="_blank"><br><strong>BinHarbor - Manage and update local Linux binaries</strong></a>
 </p>
 
 ***
