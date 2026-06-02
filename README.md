@@ -6,8 +6,9 @@
 - 🧠 Currently, I am learning about automated installations of Ubuntu, Manjaro, NixOS, CoreOS using Packer, Vagrant, and Ansible. I am also exploring OpenStack, Docker, and Kubernetes, along with many other areas of IT.
 - 🖌️ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
+#### This is my current project
 <p>
-    <img src="https://github.com/hth73/hth-binharbor/blob/main/images/BinHarborLogoSmall.png" width="64px" height="64px" alt="BinHarbor - Manage and update local Linux binaries" /><a href="https://github.com/hth73/hth-binharbor" target="_blank">BinHarbor - Manage and update local Linux binaries</a>
+    <img src="https://github.com/hth73/hth-binharbor/blob/main/images/BinHarborLogoSmall.png" width="64px" height="64px" alt="BinHarbor - Manage and update local Linux binaries" /><a href="https://github.com/hth73/hth-binharbor" target="_blank"><br>BinHarbor - Manage and update local Linux binaries</a>
 </p>
 
 ***
