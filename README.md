@@ -6,15 +6,19 @@
 - 🧠 Currently, I am learning about automated installations of Ubuntu, Manjaro, NixOS, CoreOS using Packer, Vagrant, and Ansible. I am also exploring OpenStack, Docker, and Kubernetes, along with many other areas of IT.
 - 🖌️ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
+<p>
+    <img src="https://github.com/hth73/hth-binharbor/blob/main/images/BinHarborLogoSmall.png" width="64px" height="64px" alt="BinHarbor - Manage and update local Linux binaries" /><a href="https://github.com/hth73/hth-binharbor" target="_blank">BinHarbor - Manage and update local Linux binaries</a>
+</p>
+
 ***
 ### 💻 Operating Systems
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server/Client-008ad2?style=flat&logo=windows10&labelColor=ffffff&logoColor=008ad2" />
-  <img src="https://img.shields.io/badge/Debian%20Server-A81D33?style=flat&logo=debian&labelColor=ffffff&logoColor=A81D33" />
   <img src="https://img.shields.io/badge/Ubuntu%20Server/Client-E95420?style=flat&logo=ubuntu&labelColor=ffffff&logoColor=E95420" />
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&labelColor=ffffff&logoColor=5277C3" />
-  <img src="https://img.shields.io/badge/Fedora%20CoreOS-51A2DA?style=flat&logo=fedora&labelColor=ffffff&logoColor=51A2DA" />
-  <img src="https://img.shields.io/badge/Mac%20OS%20Client-181717?style=flat&logo=apple&labelColor=ffffff&logoColor=181717" />
+  <img src="https://img.shields.io/badge/Debian%20Server-A81D33?style=flat&logo=debian&labelColor=ffffff&logoColor=A81D33" />
+  <img src="https://img.shields.io/badge/NixOS%20Server-5277C3?style=flat&logo=nixos&labelColor=ffffff&logoColor=5277C3" />
+  <img src="https://img.shields.io/badge/Fedora%20CoreOS%20Server-51A2DA?style=flat&logo=fedora&labelColor=ffffff&logoColor=51A2DA" />
+
 </p>
 
 ### ☁️ Cloud Environment
@@ -22,36 +26,24 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20Web%20Services-%2321416b.svg?logo=aws&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20365-008ad2?logo=windows10&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-008ad2?logo=msazure&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Nextcloud-0082c5?logo=Nextcloud&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/OpenStack-ee003e?logo=openstack&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Proxmox-E95420?logo=proxmox&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082c5?logo=Nextcloud&logoColor=white&style=flat" />
 </p>
+
 
 ### ☁️ AWS Cloud Services
 <p>
-  <img src="https://img.shields.io/badge/AWS%20IAM/Identity%20Center-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20VPCs/Subnets-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20NAT/Transit%20Gateway-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20VPN/Direct%20Connect-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Route%2053-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20WAF/Security%20Groups/Prefix%20Lists-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Directory%20Service-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Workspaces-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Workdocs-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20EFS/EBS-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20ALB/NLB-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20ECR-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20RDS-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20S3-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Key%20Management%20Service-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Certificate%20Manager-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20System%20Manager-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Inspector-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Backup-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Simple%20Notification%20Service-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS%20Simple%20Email%20Service-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Identity-IAM%20%7C%20Identity%20Center-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Networking-VPC%20%7C%20Subnets%20%7C%20VPN%20%7C%20TransitGW-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Security-WAF%20%7C%20SecurityGroups%20%7C%20Inspector-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Compute-EC2%20%7C%20WorkSpaces-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Storage-S3%20%7C%20EBS%20%7C%20EFS-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/LoadBalancing-ALB%20%7C%20NLB-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Containers-ECR-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Databases-RDS-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Operations-SSM%20%7C%20Backup-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Encryption-KMS%20%7C%20ACM%20%7C%20SecretsManager-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
 </p>
 
 ### 🧰 DevOps Tools
@@ -104,10 +96,11 @@
   <img src="https://img.shields.io/badge/Powershell-5391FE?logo=hyper&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Batch-5391FE?logo=hyper&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Bash-293238?logo=gnu-bash&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
 </p>
 
 ### 🌎 Internet Profiles
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />](https://github.com/hth73) [<img alt="DeviantART" src="https://img.shields.io/badge/DeviantArt-00e3a1?logo=deviantart&logoColor=white&style=flat" />](https://www.deviantart.com/hellemon) [<img alt="DeviantART" src="https://img.shields.io/badge/Helles%20Portfolio-1572B6?logo=icloud&logoColor=white&style=flat" />](https://www.thurnhofer.net)
 
 ---
-<p align="center">© 2026 Helmut Thurnhofer, all rights reserved.</p>
+<p align="center">© 2026 Helmut Thurnhofer</p>
