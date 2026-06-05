@@ -9,9 +9,9 @@
 - 🛠️ I'm also teaching myself a little Python right now so I can automate things as well. See my current project
 - 🖌️ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
-### This is my current project
+### BinHarbor - Manage and update your local Linux binaries
 <p>
-    <img src="https://github.com/hth73/hth-binharbor/blob/main/images/BinHarborLogo.png" width="64px" height="64px" alt="BinHarbor" /><a href="https://github.com/hth73/hth-binharbor" target="_blank"><br><strong>BinHarbor - Manage and update local Linux binaries</strong></a>
+    <a href="https://github.com/hth73/hth-binharbor" target="_blank"><img src="https://github.com/hth73/hth-binharbor/blob/main/images/BinHarborLogo.png" width="64px" height="64px" alt="BinHarbor - Manage and update your local Linux binaries" /></a>
 </p>
 
 ***
