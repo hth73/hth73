@@ -5,8 +5,8 @@
 ---
 ### Brief description
 
-- 🧠 Currently, I'm learning a lot about automated installations of Ubuntu, Manjaro, NixOS, CoreOS using Packer, Vagrant, and Ansible. I'm also exploring OpenStack, Docker, and Kubernetes, along with many other areas of IT.
-- 🛠️ I'm also teaching myself a little Python right now so I can automate things as well. See my current project
+- 🧠 Currently, I'm learning a lot about automated installations of Ubuntu, Manjaro, NixOS, and CoreOS using Packer, Vagrant, and Ansible. I'm also exploring OpenStack, Docker, Kubernetes, and many other areas of IT.
+- 🛠️ I'm currently teaching myself Python to automate even more tasks and workflows. Feel free to check out my latest project.
 - 🖌️ I enjoy pencil drawing and photo manipulation using Adobe Photoshop.
 
 ### BinHarbor - Manage and update your local Linux binaries
