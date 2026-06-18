@@ -20,6 +20,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server/Client-008ad2?style=flat&logo=windows10&labelColor=ffffff&logoColor=008ad2" />
   <img src="https://img.shields.io/badge/Ubuntu%20Server/Client-E95420?style=flat&logo=ubuntu&labelColor=ffffff&logoColor=E95420" />
   <img src="https://img.shields.io/badge/Debian%20Server-A81D33?style=flat&logo=debian&labelColor=ffffff&logoColor=A81D33" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&labelColor=ffffff&logoColor=1793D1" />
   <img src="https://img.shields.io/badge/NixOS%20Server-5277C3?style=flat&logo=nixos&labelColor=ffffff&logoColor=5277C3" />
   <img src="https://img.shields.io/badge/Fedora%20CoreOS%20Server-51A2DA?style=flat&logo=fedora&labelColor=ffffff&logoColor=51A2DA" />
 
