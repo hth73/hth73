@@ -14,6 +14,11 @@
     <a href="https://github.com/hth73/hth-binharbor" target="_blank"><img src="https://github.com/hth73/hth-binharbor/blob/main/images/BinHarborLogo.png" width="64px" height="64px" alt="BinHarbor - Manage and update your local Linux binaries" /></a>
 </p>
 
+### pwmint - Secure Password and Passphrase Generator
+<p>
+    <a href="https://github.com/hth73/hth-python-playground" target="_blank"><img src="https://github.com/hth73/hth-python-playground/blob/main/pwmint/images/pwmint.png" width="64px" height="64px" alt="pwmint - Secure Password and Passphrase Generator" /></a>
+</p>
+
 ***
 ### 💻 Operating Systems
 <p>
