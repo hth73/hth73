@@ -29,10 +29,9 @@
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server/Client-008ad2?style=flat&logo=windows10&labelColor=ffffff&logoColor=008ad2" />
   <img src="https://img.shields.io/badge/Ubuntu%20Server/Client-E95420?style=flat&logo=ubuntu&labelColor=ffffff&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/Fedora%20CoreOS%20Server-51A2DA?style=flat&logo=fedora&labelColor=ffffff&logoColor=51A2DA" />
   <img src="https://img.shields.io/badge/Debian%20Server-A81D33?style=flat&logo=debian&labelColor=ffffff&logoColor=A81D33" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&labelColor=ffffff&logoColor=1793D1" />
-  <img src="https://img.shields.io/badge/NixOS%20Server-5277C3?style=flat&logo=nixos&labelColor=ffffff&logoColor=5277C3" />
-  <img src="https://img.shields.io/badge/Fedora%20CoreOS%20Server-51A2DA?style=flat&logo=fedora&labelColor=ffffff&logoColor=51A2DA" />
 
 </p>
 
@@ -42,7 +41,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20365-008ad2?logo=windows10&logoColor=white&style=flat" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-008ad2?logo=msazure&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/OpenStack-ee003e?logo=openstack&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Proxmox-E95420?logo=proxmox&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Nextcloud-0082c5?logo=Nextcloud&logoColor=white&style=flat" />
 </p>
 
@@ -61,14 +59,25 @@
   <img src="https://img.shields.io/badge/Encryption-KMS%20%7C%20ACM%20%7C%20SecretsManager-21416b?logo=amazon-web-services&logoColor=white&style=flat" />
 </p>
 
+### 🤖 AI Tools
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&labelColor=ffffff&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/ChatGPT-009e7d?style=flat&logo=chromatic&labelColor=ffffff&logoColor=009e7d" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&labelColor=ffffff&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Github%20Copilot-293238?style=flat&logo=githubcopilot&labelColor=ffffff&logoColor=293238" />
+  <img src="https://img.shields.io/badge/Notebook%20LM-293238?style=flat&logo=notebooklm&labelColor=ffffff&logoColor=293238" />
+  <img src="https://img.shields.io/badge/Ollama-293238?style=flat&logo=ollama&labelColor=ffffff&logoColor=293238" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&labelColor=ffffff&logoColor=DC244C" />
+</p>
+
 ### 🧰 DevOps Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Github-293238?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-293238?logo=github-actions&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Concourse%20CI-3398DC?logo=concourse&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-181717?logo=github-actions&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Forgejo-FB923C?logo=forgejo&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/RenovateBot-308BE3?logo=renovate&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white&style=flat" />
@@ -90,9 +99,7 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?logo=Helm&labelColor=0F1689&style=flat" />
-  <img src="https://img.shields.io/badge/Flux%20CD-5468FF?logo=flux&labelColor=ffffff&style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-21416b?logo=VirtualBox&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Vagrant-1868F2?logo=Vagrant&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
@@ -101,7 +108,6 @@
   <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Terragrunt-7B42BC?logo=terraform&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Markdown-181717?logo=markdown&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=flat" />
 </p>
 
 ### 📝 Scripting Tools
