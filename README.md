@@ -16,7 +16,12 @@
 
 ### pwmint - Secure Password and Passphrase Generator
 <p>
-    <a href="https://github.com/hth73/hth-python-playground" target="_blank"><img src="https://github.com/hth73/hth-python-playground/blob/main/pwmint/images/pwmint.png" width="64px" height="64px" alt="pwmint - Secure Password and Passphrase Generator" /></a>
+    <a href="https://github.com/hth73/hth-python-playground" target="_blank"><img src="https://github.com/hth73/hth-python-playground/blob/main/pwmint/images/pwmint.png" width="64px" height="42px" alt="pwmint - Secure Password and Passphrase Generator" /></a>
+</p>
+
+### RAG chatbot - Based on Ollama, Qdrant, SQLite, and Streamlit
+<p>
+    <a href="hhttps://github.com/hth73/hth-ai-playground/tree/main/02-rag-chatbot" target="_blank"><img src="https://github.com/hth73/hth-ai-playground/blob/main/images/rag_chatbot_logo.png" width="64px" height="56px" alt="RAG chatbot - Based on Ollama, Qdrant, SQLite, and Streamlit" /></a>
 </p>
 
 ***
