@@ -21,7 +21,7 @@
 
 ### RAG chatbot - Based on Ollama, Qdrant, SQLite, and Streamlit
 <p>
-    <a href="hhttps://github.com/hth73/hth-ai-playground/tree/main/02-rag-chatbot" target="_blank"><img src="https://github.com/hth73/hth-ai-playground/blob/main/images/rag_chatbot_logo.png" width="64px" height="56px" alt="RAG chatbot - Based on Ollama, Qdrant, SQLite, and Streamlit" /></a>
+    <a href="https://github.com/hth73/hth-ai-playground/tree/main/02-rag-chatbot" target="_blank"><img src="https://github.com/hth73/hth-ai-playground/blob/main/images/rag_chatbot_logo.png" width="64px" height="56px" alt="RAG chatbot - Based on Ollama, Qdrant, SQLite, and Streamlit" /></a>
 </p>
 
 ***
