@@ -61,11 +61,11 @@
 
 ### 🤖 AI Tools
 <p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&labelColor=ffffff&logoColor=8E75B2" />
   <img src="https://img.shields.io/badge/ChatGPT-009e7d?style=flat&logo=chromatic&labelColor=ffffff&logoColor=009e7d" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&labelColor=ffffff&logoColor=D97757" />
   <img src="https://img.shields.io/badge/Github%20Copilot-293238?style=flat&logo=githubcopilot&labelColor=ffffff&logoColor=293238" />
-  <img src="https://img.shields.io/badge/Notebook%20LM-293238?style=flat&logo=notebooklm&labelColor=ffffff&logoColor=293238" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&labelColor=ffffff&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/Gemini%20Notebook-293238?style=flat&logo=googlegemini&labelColor=ffffff&logoColor=293238" />
   <img src="https://img.shields.io/badge/Ollama-293238?style=flat&logo=ollama&labelColor=ffffff&logoColor=293238" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&labelColor=ffffff&logoColor=DC244C" />
 </p>
@@ -98,6 +98,7 @@
   <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=Prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&labelColor=ffffff&logoColor=EF7B4D" />
   <img src="https://img.shields.io/badge/Helm-0F1689?logo=Helm&labelColor=0F1689&style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-21416b?logo=VirtualBox&logoColor=white&style=flat" />
